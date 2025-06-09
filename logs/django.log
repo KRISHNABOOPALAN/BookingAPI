@@ -1,0 +1,1247 @@
+INFO 2025-06-07 21:41:21,008 autoreload Watching for file changes with StatReloader
+INFO 2025-06-07 21:41:32,006 basehttp "GET /book/5/ HTTP/1.1" 200 1419
+INFO 2025-06-07 21:41:37,701 basehttp "POST /book/5/ HTTP/1.1" 200 1550
+INFO 2025-06-07 21:43:24,584 autoreload D:\Interview\BookingApi\Booking_Api\settings.py changed, reloading.
+INFO 2025-06-07 21:44:03,258 autoreload Watching for file changes with StatReloader
+INFO 2025-06-07 21:44:08,860 basehttp "GET / HTTP/1.1" 200 4794
+INFO 2025-06-08 07:26:58,075 autoreload Watching for file changes with StatReloader
+INFO 2025-06-08 07:29:52,544 basehttp "GET / HTTP/1.1" 200 4947
+WARNING 2025-06-08 07:29:53,779 log Not Found: /favicon.ico
+WARNING 2025-06-08 07:29:53,779 basehttp "GET /favicon.ico HTTP/1.1" 404 3651
+INFO 2025-06-08 07:30:37,017 basehttp "GET /register/ HTTP/1.1" 200 2717
+INFO 2025-06-08 07:36:23,899 basehttp "POST /register/ HTTP/1.1" 302 0
+INFO 2025-06-08 07:36:23,923 basehttp "GET / HTTP/1.1" 200 4791
+INFO 2025-06-08 07:36:59,333 basehttp "GET /book/6/ HTTP/1.1" 200 1406
+INFO 2025-06-08 07:37:07,409 basehttp "POST /book/6/ HTTP/1.1" 200 1537
+INFO 2025-06-08 07:38:48,034 basehttp "GET / HTTP/1.1" 200 4791
+INFO 2025-06-08 07:38:52,325 basehttp "GET /book/1/ HTTP/1.1" 200 1225
+INFO 2025-06-08 07:38:57,929 basehttp "GET / HTTP/1.1" 200 4791
+INFO 2025-06-08 08:00:24,190 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-08 08:00:24,201 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-08 08:00:26,994 basehttp "GET /login/ HTTP/1.1" 200 1958
+INFO 2025-06-08 08:01:06,716 basehttp "POST /login/ HTTP/1.1" 200 2117
+INFO 2025-06-08 08:01:18,506 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-08 08:01:18,520 basehttp "GET / HTTP/1.1" 200 4791
+INFO 2025-06-08 08:04:55,962 autoreload D:\Interview\BookingApi\Booking_Api\settings.py changed, reloading.
+INFO 2025-06-08 08:04:56,780 autoreload Watching for file changes with StatReloader
+INFO 2025-06-08 08:04:58,699 autoreload D:\Interview\BookingApi\Booking_Api\settings.py changed, reloading.
+INFO 2025-06-08 08:04:59,245 autoreload Watching for file changes with StatReloader
+INFO 2025-06-08 08:05:06,109 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-08 08:05:06,150 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-08 08:05:07,997 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-08 08:05:11,963 basehttp "GET /login/ HTTP/1.1" 200 1958
+INFO 2025-06-08 08:05:31,468 basehttp "POST /login/ HTTP/1.1" 200 2117
+INFO 2025-06-08 08:05:43,721 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-08 08:05:43,743 basehttp "GET / HTTP/1.1" 200 4791
+INFO 2025-06-08 08:05:49,805 basehttp "GET /book/3/ HTTP/1.1" 200 1438
+INFO 2025-06-08 08:05:59,382 basehttp "GET / HTTP/1.1" 200 4791
+INFO 2025-06-08 08:06:01,900 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-08 08:06:01,927 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-08 08:06:03,694 basehttp "GET /login/ HTTP/1.1" 200 1958
+INFO 2025-06-08 08:06:12,276 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-08 08:06:12,300 basehttp "GET / HTTP/1.1" 200 4864
+INFO 2025-06-08 08:06:14,559 basehttp "GET /admin/ HTTP/1.1" 200 12451
+INFO 2025-06-08 08:06:14,891 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+INFO 2025-06-08 08:06:14,899 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2025-06-08 08:06:14,937 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+INFO 2025-06-08 08:06:14,938 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+INFO 2025-06-08 08:06:14,938 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-06-08 08:06:14,958 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2025-06-08 08:06:14,959 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-06-08 08:06:14,974 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2025-06-08 08:06:14,974 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2025-06-08 08:06:18,294 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 12886
+INFO 2025-06-08 08:06:18,329 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2025-06-08 08:06:18,329 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2025-06-08 08:06:18,335 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2025-06-08 08:06:18,335 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+INFO 2025-06-08 08:06:18,347 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2025-06-08 08:06:18,351 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2025-06-08 08:06:18,351 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2025-06-08 08:06:18,351 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-08 08:06:18,362 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2025-06-08 08:06:18,383 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2025-06-08 08:06:18,494 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2025-06-08 08:06:18,537 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2025-06-08 08:06:23,349 basehttp "GET /admin/Booking_App/fitnessclass/ HTTP/1.1" 200 12485
+INFO 2025-06-08 08:06:23,372 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-08 08:06:25,979 basehttp "GET /admin/Booking_App/fitnessclass/4/change/ HTTP/1.1" 200 14517
+INFO 2025-06-08 08:06:26,002 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-08 08:06:26,004 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+INFO 2025-06-08 08:06:26,012 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2025-06-08 08:06:26,013 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2025-06-08 08:06:26,021 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2025-06-08 08:06:26,021 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+INFO 2025-06-08 08:06:26,029 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2025-06-08 08:06:26,042 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2025-06-08 08:06:26,056 basehttp "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2025-06-08 08:06:26,056 basehttp "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2025-06-08 08:06:49,642 autoreload D:\Interview\BookingApi\Booking_Api\settings.py changed, reloading.
+INFO 2025-06-08 08:06:50,384 autoreload Watching for file changes with StatReloader
+INFO 2025-06-08 08:07:19,368 basehttp "POST /admin/Booking_App/fitnessclass/4/change/ HTTP/1.1" 302 0
+INFO 2025-06-08 08:07:19,474 basehttp "GET /admin/Booking_App/fitnessclass/ HTTP/1.1" 200 12743
+INFO 2025-06-08 08:07:19,503 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-08 08:07:19,611 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2025-06-08 08:07:21,873 basehttp "GET /admin/Booking_App/fitnessclass/4/change/ HTTP/1.1" 200 14521
+INFO 2025-06-08 08:07:22,841 basehttp "GET /admin/Booking_App/fitnessclass/ HTTP/1.1" 200 12489
+INFO 2025-06-08 08:07:23,632 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 12890
+INFO 2025-06-08 08:07:24,441 basehttp "GET /admin/ HTTP/1.1" 200 12504
+INFO 2025-06-08 08:08:40,983 basehttp "GET / HTTP/1.1" 200 4907
+INFO 2025-06-08 08:09:12,472 basehttp "GET / HTTP/1.1" 200 4864
+INFO 2025-06-08 08:11:14,127 basehttp "GET / HTTP/1.1" 200 4866
+INFO 2025-06-08 08:11:30,732 basehttp "GET / HTTP/1.1" 200 4865
+INFO 2025-06-09 12:22:57,749 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 12:23:04,892 basehttp "GET / HTTP/1.1" 200 4865
+WARNING 2025-06-09 12:23:04,932 log Not Found: /favicon.ico
+WARNING 2025-06-09 12:23:04,932 basehttp "GET /favicon.ico HTTP/1.1" 404 3651
+INFO 2025-06-09 12:23:07,096 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 12:23:07,112 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 12:23:09,153 basehttp "GET /register/ HTTP/1.1" 200 2717
+INFO 2025-06-09 12:23:14,880 basehttp "GET /login/ HTTP/1.1" 200 1958
+INFO 2025-06-09 12:56:12,117 autoreload D:\Interview\BookingApi\Booking_App\urls.py changed, reloading.
+INFO 2025-06-09 12:56:12,838 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 12:56:21,007 autoreload D:\Interview\BookingApi\Booking_App\urls.py changed, reloading.
+INFO 2025-06-09 12:56:21,672 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 13:04:33,501 basehttp "GET /login/ HTTP/1.1" 200 2021
+INFO 2025-06-09 13:04:38,258 basehttp "GET /register/ HTTP/1.1" 200 2726
+INFO 2025-06-09 13:04:40,826 basehttp "GET /login/ HTTP/1.1" 200 2021
+INFO 2025-06-09 13:04:49,871 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:04:49,898 basehttp "GET / HTTP/1.1" 200 4865
+INFO 2025-06-09 13:04:54,601 basehttp "GET /admin/ HTTP/1.1" 200 12504
+INFO 2025-06-09 13:04:54,625 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:04:54,625 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:04:54,626 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:04:54,626 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:04:54,628 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:04:54,628 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:04:54,631 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:04:54,632 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:04:54,632 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,178 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 14567
+INFO 2025-06-09 13:05:00,199 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,199 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,199 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,199 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,199 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,199 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,204 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,205 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,205 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,207 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,224 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 13:05:00,234 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,234 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,234 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:05:00,275 basehttp "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2025-06-09 13:05:00,275 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2025-06-09 13:05:00,282 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2025-06-09 13:05:11,143 basehttp "GET /admin/ HTTP/1.1" 200 12504
+INFO 2025-06-09 13:05:15,079 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:05:15,093 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 13:05:16,636 basehttp "GET /register/ HTTP/1.1" 200 2726
+INFO 2025-06-09 13:05:18,314 basehttp "GET /login/ HTTP/1.1" 200 2021
+INFO 2025-06-09 13:05:44,742 basehttp "GET /password_reset/ HTTP/1.1" 200 379
+INFO 2025-06-09 13:05:59,801 basehttp "POST /password_reset/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:05:59,822 basehttp "GET /password_reset_done/ HTTP/1.1" 200 71
+INFO 2025-06-09 13:06:28,339 basehttp "GET /reset/Mg/cr4sdu-426f247eb8f99f7526449be191047377/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:06:28,362 basehttp "GET /reset/Mg/set-password/ HTTP/1.1" 200 679
+WARNING 2025-06-09 13:06:28,417 log Not Found: /favicon.ico
+WARNING 2025-06-09 13:06:28,417 basehttp "GET /favicon.ico HTTP/1.1" 404 4778
+INFO 2025-06-09 13:06:54,353 basehttp "POST /reset/Mg/set-password/ HTTP/1.1" 302 0
+ERROR 2025-06-09 13:06:54,495 log Internal Server Error: /reset_done/
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+ERROR 2025-06-09 13:06:54,506 basehttp "GET /reset_done/ HTTP/1.1" 500 111949
+INFO 2025-06-09 13:07:06,980 basehttp "GET /reset_done/ HTTP/1.1" 200 113
+INFO 2025-06-09 13:07:09,747 basehttp "GET /login/ HTTP/1.1" 200 2021
+INFO 2025-06-09 13:12:32,673 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 13:12:40,545 basehttp "GET /login/ HTTP/1.1" 200 2021
+INFO 2025-06-09 13:12:57,904 basehttp "POST /login/ HTTP/1.1" 200 2183
+INFO 2025-06-09 13:13:26,215 basehttp "POST /login/ HTTP/1.1" 200 2183
+INFO 2025-06-09 13:13:38,026 basehttp "POST /login/ HTTP/1.1" 200 2183
+INFO 2025-06-09 13:14:23,282 basehttp "POST /login/ HTTP/1.1" 200 2196
+INFO 2025-06-09 13:15:12,955 basehttp "POST /login/ HTTP/1.1" 200 2218
+INFO 2025-06-09 13:19:47,383 basehttp "POST /login/ HTTP/1.1" 200 2218
+INFO 2025-06-09 13:19:52,730 basehttp "GET /password_reset/ HTTP/1.1" 200 1233
+INFO 2025-06-09 13:20:34,054 basehttp "GET /register/ HTTP/1.1" 200 2726
+INFO 2025-06-09 13:20:37,510 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 13:20:39,613 basehttp "GET /register/ HTTP/1.1" 200 2726
+WARNING 2025-06-09 13:20:45,808 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-09 13:20:45,808 basehttp "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 4889
+INFO 2025-06-09 13:21:46,082 basehttp "GET /register/ HTTP/1.1" 200 2761
+WARNING 2025-06-09 13:21:46,095 log Not Found: /.well-known/appspecific/com.chrome.devtools.json
+WARNING 2025-06-09 13:21:46,095 basehttp "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 4889
+INFO 2025-06-09 13:22:31,909 basehttp "GET /register/ HTTP/1.1" 200 2759
+INFO 2025-06-09 13:22:32,177 basehttp "GET /register/ HTTP/1.1" 200 2759
+INFO 2025-06-09 13:22:32,562 basehttp "GET /register/ HTTP/1.1" 200 2759
+INFO 2025-06-09 13:24:52,523 basehttp "GET /register/ HTTP/1.1" 200 2761
+INFO 2025-06-09 13:25:04,305 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 13:25:23,595 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 13:26:33,425 basehttp "GET /password_reset/ HTTP/1.1" 200 1245
+INFO 2025-06-09 13:27:19,373 basehttp "GET /password_reset/ HTTP/1.1" 200 1234
+INFO 2025-06-09 13:27:43,767 basehttp "GET /password_reset/ HTTP/1.1" 200 1234
+INFO 2025-06-09 13:28:11,848 basehttp "GET /password_reset/ HTTP/1.1" 200 1230
+INFO 2025-06-09 13:28:34,995 basehttp "GET /password_reset/ HTTP/1.1" 200 1234
+INFO 2025-06-09 13:29:58,383 basehttp "GET /password_reset/ HTTP/1.1" 200 1234
+INFO 2025-06-09 13:30:47,439 basehttp "GET /password_reset/ HTTP/1.1" 200 1258
+INFO 2025-06-09 13:31:12,074 basehttp "GET /reset/Mg/cr4sdu-426f247eb8f99f7526449be191047377/ HTTP/1.1" 200 1121
+INFO 2025-06-09 13:31:58,145 basehttp "GET /reset/Mg/cr4sdu-426f247eb8f99f7526449be191047377/ HTTP/1.1" 200 1133
+INFO 2025-06-09 13:32:19,542 basehttp "GET /reset/Mg/cr4sdu-426f247eb8f99f7526449be191047377/ HTTP/1.1" 200 1122
+INFO 2025-06-09 13:32:46,522 basehttp "POST /password_reset/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:32:46,560 basehttp "GET /password_reset_done/ HTTP/1.1" 200 925
+INFO 2025-06-09 13:33:09,954 basehttp "GET /password_reset_done/ HTTP/1.1" 200 937
+INFO 2025-06-09 13:33:29,826 basehttp "GET /password_reset_done/ HTTP/1.1" 200 926
+INFO 2025-06-09 13:35:51,043 basehttp "GET /password_reset_done/ HTTP/1.1" 200 1152
+INFO 2025-06-09 13:37:11,368 basehttp "GET /reset/Mg/cr4tmi-007a5eff9e5b176bf47e36c7cfb6a346/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:37:11,382 basehttp "GET /reset/Mg/set-password/ HTTP/1.1" 200 1533
+INFO 2025-06-09 13:37:59,858 basehttp "GET /reset/Mg/set-password/ HTTP/1.1" 200 1533
+INFO 2025-06-09 13:38:25,214 basehttp "GET /reset/Mg/set-password/ HTTP/1.1" 200 1308
+INFO 2025-06-09 13:39:14,015 basehttp "GET /reset/Mg/set-password/ HTTP/1.1" 200 1670
+INFO 2025-06-09 13:39:50,501 basehttp "GET /reset/Mg/set-password/ HTTP/1.1" 200 1694
+INFO 2025-06-09 13:40:14,681 basehttp "POST /reset/Mg/set-password/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:40:14,712 basehttp "GET /reset_done/ HTTP/1.1" 200 994
+INFO 2025-06-09 13:41:01,884 basehttp "GET /reset_done/ HTTP/1.1" 200 983
+INFO 2025-06-09 13:42:12,181 basehttp "GET /reset_done/ HTTP/1.1" 200 1349
+INFO 2025-06-09 13:42:52,016 basehttp "GET /reset_done/ HTTP/1.1" 200 1359
+INFO 2025-06-09 13:43:23,571 basehttp "GET /reset_done/ HTTP/1.1" 200 1368
+INFO 2025-06-09 13:43:39,452 basehttp "GET /reset_done/ HTTP/1.1" 200 1369
+INFO 2025-06-09 13:43:51,811 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 13:44:08,719 basehttp "POST /login/ HTTP/1.1" 200 2218
+INFO 2025-06-09 13:44:22,046 basehttp "POST /login/ HTTP/1.1" 200 2218
+INFO 2025-06-09 13:44:29,231 basehttp "GET /password_reset/ HTTP/1.1" 200 1258
+INFO 2025-06-09 13:44:55,169 basehttp "POST /login/ HTTP/1.1" 200 2218
+INFO 2025-06-09 13:45:02,279 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 13:45:11,458 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 13:45:21,131 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:45:21,146 basehttp "GET / HTTP/1.1" 200 4865
+INFO 2025-06-09 13:45:23,300 basehttp "GET /admin/ HTTP/1.1" 200 12504
+INFO 2025-06-09 13:45:23,321 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:23,327 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:23,327 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:23,329 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:23,331 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:23,332 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:23,332 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:23,337 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:23,339 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,437 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 14567
+INFO 2025-06-09 13:45:25,458 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,464 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,464 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,467 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,469 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,472 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,473 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,469 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,476 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,476 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,478 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,479 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 13:45:25,479 basehttp "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,481 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,494 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,494 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:25,498 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-06-09 13:45:34,942 basehttp "GET /admin/ HTTP/1.1" 200 12504
+INFO 2025-06-09 13:45:38,345 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:45:38,359 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 13:45:40,540 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 13:45:50,970 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:45:50,986 basehttp "GET / HTTP/1.1" 200 4792
+INFO 2025-06-09 13:45:53,787 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:45:53,803 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 13:46:27,817 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 13:46:28,872 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 13:46:29,066 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 13:46:29,254 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 13:46:29,442 basehttp "GET / HTTP/1.1" 200 4947
+INFO 2025-06-09 13:47:24,080 basehttp "GET / HTTP/1.1" 200 4936
+INFO 2025-06-09 13:47:40,467 basehttp "GET / HTTP/1.1" 200 4936
+INFO 2025-06-09 13:48:09,879 basehttp "GET / HTTP/1.1" 200 4948
+INFO 2025-06-09 13:48:19,081 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 13:48:32,162 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 13:48:42,009 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:48:42,029 basehttp "GET / HTTP/1.1" 200 4793
+INFO 2025-06-09 13:48:54,632 basehttp "GET /book/1/ HTTP/1.1" 200 1225
+INFO 2025-06-09 13:49:02,199 basehttp "GET / HTTP/1.1" 200 4793
+INFO 2025-06-09 13:49:07,464 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:49:07,482 basehttp "GET / HTTP/1.1" 200 4948
+ERROR 2025-06-09 13:52:25,359 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'else'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Interview\BookingApi\Booking_App\views.py", line 21, in Home
+    return render(request, 'Home.html', {'classes': classes})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 577, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 42: 'else'. Did you forget to register or load this tag?
+ERROR 2025-06-09 13:52:25,365 basehttp "GET / HTTP/1.1" 500 154386
+ERROR 2025-06-09 13:52:30,552 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'else'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Interview\BookingApi\Booking_App\views.py", line 21, in Home
+    return render(request, 'Home.html', {'classes': classes})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 577, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 42: 'else'. Did you forget to register or load this tag?
+ERROR 2025-06-09 13:52:30,552 basehttp "GET / HTTP/1.1" 500 154098
+INFO 2025-06-09 13:52:35,330 basehttp "GET / HTTP/1.1" 200 4948
+INFO 2025-06-09 13:52:54,349 basehttp "GET / HTTP/1.1" 200 4948
+INFO 2025-06-09 13:52:56,300 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 13:53:12,060 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:53:12,067 basehttp "GET / HTTP/1.1" 200 4793
+INFO 2025-06-09 13:53:16,346 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:53:16,359 basehttp "GET / HTTP/1.1" 200 4948
+INFO 2025-06-09 13:53:18,538 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 13:53:28,087 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 13:53:28,099 basehttp "GET / HTTP/1.1" 200 4893
+INFO 2025-06-09 13:53:40,875 basehttp "GET / HTTP/1.1" 200 4866
+INFO 2025-06-09 13:56:46,302 basehttp "GET / HTTP/1.1" 200 4871
+ERROR 2025-06-09 13:58:47,252 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'else'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Interview\BookingApi\Booking_App\views.py", line 21, in Home
+    return render(request, 'Home.html', {'classes': classes})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 577, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 42: 'else'. Did you forget to register or load this tag?
+ERROR 2025-06-09 13:58:47,252 basehttp "GET / HTTP/1.1" 500 154596
+ERROR 2025-06-09 13:59:01,380 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'else'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Interview\BookingApi\Booking_App\views.py", line 21, in Home
+    return render(request, 'Home.html', {'classes': classes})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 577, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 42: 'else'. Did you forget to register or load this tag?
+ERROR 2025-06-09 13:59:01,387 basehttp "GET / HTTP/1.1" 500 154771
+ERROR 2025-06-09 13:59:12,351 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'else'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Interview\BookingApi\Booking_App\views.py", line 21, in Home
+    return render(request, 'Home.html', {'classes': classes})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 577, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 41: 'else'. Did you forget to register or load this tag?
+ERROR 2025-06-09 13:59:12,352 basehttp "GET / HTTP/1.1" 500 154735
+INFO 2025-06-09 13:59:26,478 basehttp "GET / HTTP/1.1" 200 4866
+ERROR 2025-06-09 14:02:12,835 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'else'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Interview\BookingApi\Booking_App\views.py", line 21, in Home
+    return render(request, 'Home.html', {'classes': classes})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 577, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 45: 'else'. Did you forget to register or load this tag?
+ERROR 2025-06-09 14:02:12,837 basehttp "GET / HTTP/1.1" 500 154829
+INFO 2025-06-09 14:02:20,486 basehttp "GET / HTTP/1.1" 200 4866
+INFO 2025-06-09 14:03:03,307 basehttp "GET / HTTP/1.1" 200 4866
+INFO 2025-06-09 14:03:06,092 basehttp "GET /admin/ HTTP/1.1" 200 12504
+INFO 2025-06-09 14:03:47,939 basehttp "GET / HTTP/1.1" 200 4864
+INFO 2025-06-09 14:04:40,300 basehttp "GET / HTTP/1.1" 200 4866
+INFO 2025-06-09 14:05:36,841 basehttp "GET / HTTP/1.1" 200 4864
+INFO 2025-06-09 14:07:47,712 basehttp "GET / HTTP/1.1" 200 4907
+INFO 2025-06-09 14:07:51,990 basehttp "GET /admin/ HTTP/1.1" 200 12504
+INFO 2025-06-09 14:08:33,399 basehttp "GET / HTTP/1.1" 200 4928
+ERROR 2025-06-09 14:09:41,495 log Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 510, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'else'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Interview\BookingApi\Booking_App\views.py", line 21, in Home
+    return render(request, 'Home.html', {'classes': classes})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 196, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 512, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\krish\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 577, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 47: 'else'. Did you forget to register or load this tag?
+ERROR 2025-06-09 14:09:41,495 basehttp "GET / HTTP/1.1" 500 154588
+INFO 2025-06-09 14:09:54,362 basehttp "GET / HTTP/1.1" 200 5000
+INFO 2025-06-09 14:10:04,637 basehttp "GET / HTTP/1.1" 200 4907
+INFO 2025-06-09 14:12:12,732 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 14:12:12,740 basehttp "GET / HTTP/1.1" 200 4948
+INFO 2025-06-09 14:12:14,796 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 14:12:23,863 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 14:12:23,876 basehttp "GET / HTTP/1.1" 200 4793
+INFO 2025-06-09 14:12:43,459 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 14:12:43,469 basehttp "GET / HTTP/1.1" 200 4948
+INFO 2025-06-09 16:29:47,922 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 16:29:54,030 basehttp "GET / HTTP/1.1" 200 4948
+INFO 2025-06-09 16:30:00,849 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 16:30:09,059 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 16:30:09,084 basehttp "GET / HTTP/1.1" 200 4793
+INFO 2025-06-09 16:30:13,392 basehttp "GET /book/2/ HTTP/1.1" 200 1413
+WARNING 2025-06-09 16:31:11,424 log Forbidden (CSRF cookie not set.): /book/2/
+WARNING 2025-06-09 16:31:11,424 basehttp "POST /book/2/ HTTP/1.1" 403 2855
+WARNING 2025-06-09 16:31:43,369 log Forbidden (CSRF cookie not set.): /book/2/
+WARNING 2025-06-09 16:31:43,369 basehttp "POST /book/2/ HTTP/1.1" 403 2855
+WARNING 2025-06-09 16:32:03,973 log Forbidden (CSRF cookie not set.): /book/2/
+WARNING 2025-06-09 16:32:03,973 basehttp "POST /book/2/ HTTP/1.1" 403 2855
+INFO 2025-06-09 16:32:29,462 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-06-09 16:32:29,511 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3693
+INFO 2025-06-09 16:32:29,544 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-06-09 16:32:37,660 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-06-09 16:32:37,669 basehttp "GET /admin/ HTTP/1.1" 200 12504
+INFO 2025-06-09 16:32:40,181 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 14567
+INFO 2025-06-09 16:32:40,204 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:32:48,962 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 12890
+INFO 2025-06-09 16:32:48,971 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:33:10,395 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 12890
+INFO 2025-06-09 16:33:10,412 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:33:13,091 basehttp "GET /admin/Booking_App/booking/7/change/ HTTP/1.1" 200 13798
+INFO 2025-06-09 16:33:13,103 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-06-09 16:33:13,109 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:33:13,109 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-06-09 16:33:13,109 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-06-09 16:33:13,113 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-06-09 16:33:19,444 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 12006
+INFO 2025-06-09 16:33:19,455 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:33:22,109 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 12890
+INFO 2025-06-09 16:33:22,117 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2025-06-09 16:33:53,242 log Forbidden (CSRF token from POST incorrect.): /book/2/
+WARNING 2025-06-09 16:33:53,242 basehttp "POST /book/2/ HTTP/1.1" 403 2503
+INFO 2025-06-09 16:34:12,281 basehttp "GET /book/2/ HTTP/1.1" 200 1413
+INFO 2025-06-09 16:34:14,196 basehttp "POST /book/2/ HTTP/1.1" 200 1544
+INFO 2025-06-09 16:34:23,583 basehttp "GET / HTTP/1.1" 200 4907
+INFO 2025-06-09 16:34:27,353 basehttp "GET /book/1/ HTTP/1.1" 200 1225
+INFO 2025-06-09 16:34:34,282 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 13249
+INFO 2025-06-09 16:34:34,302 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:34:37,728 basehttp "GET /admin/Booking_App/booking/1/change/ HTTP/1.1" 200 13798
+INFO 2025-06-09 16:34:37,743 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:36:05,930 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 12006
+INFO 2025-06-09 16:36:05,949 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:36:57,930 basehttp "GET /api/classes/ HTTP/1.1" 200 579
+ERROR 2025-06-09 16:37:51,273 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:37:51,273 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+WARNING 2025-06-09 16:37:56,345 log Bad Request: /api/bookings/
+WARNING 2025-06-09 16:37:56,345 basehttp "POST /api/bookings/ HTTP/1.1" 400 28
+ERROR 2025-06-09 16:38:17,718 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:38:17,719 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+INFO 2025-06-09 16:38:37,170 basehttp "GET /admin/Booking_App/fitnessclass/ HTTP/1.1" 200 12489
+INFO 2025-06-09 16:38:37,180 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:38:39,432 basehttp "GET /admin/Booking_App/fitnessclass/6/change/ HTTP/1.1" 200 14512
+INFO 2025-06-09 16:38:39,448 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-06-09 16:38:39,448 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2025-06-09 16:38:39,448 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:38:39,464 basehttp "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2025-06-09 16:38:39,464 basehttp "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2025-06-09 16:38:45,858 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 12006
+INFO 2025-06-09 16:38:45,876 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:38:48,513 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 13249
+INFO 2025-06-09 16:38:48,532 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:38:56,558 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 14567
+INFO 2025-06-09 16:38:56,573 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+ERROR 2025-06-09 16:39:07,978 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:39:07,978 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+INFO 2025-06-09 16:39:46,185 basehttp "GET /api/bookings/ HTTP/1.1" 200 673
+ERROR 2025-06-09 16:40:24,038 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:40:24,038 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+ERROR 2025-06-09 16:43:31,660 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:43:31,660 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+INFO 2025-06-09 16:43:52,376 autoreload D:\Interview\BookingApi\Booking_App\forms.py changed, reloading.
+INFO 2025-06-09 16:43:52,947 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 16:44:19,638 autoreload D:\Interview\BookingApi\Booking_App\forms.py changed, reloading.
+INFO 2025-06-09 16:44:20,188 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 16:44:22,875 autoreload D:\Interview\BookingApi\Booking_App\forms.py changed, reloading.
+INFO 2025-06-09 16:44:23,537 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 16:45:40,085 autoreload D:\Interview\BookingApi\Booking_App\forms.py changed, reloading.
+INFO 2025-06-09 16:45:40,746 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-09 16:45:48,382 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:45:48,382 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+INFO 2025-06-09 16:46:27,786 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-09 16:46:34,435 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:46:34,435 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+ERROR 2025-06-09 16:47:25,249 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:47:25,249 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+ERROR 2025-06-09 16:47:58,014 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:47:58,014 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+WARNING 2025-06-09 16:49:07,680 log Not Found: /api/booking/
+WARNING 2025-06-09 16:49:07,680 basehttp "POST /api/booking/ HTTP/1.1" 404 7555
+WARNING 2025-06-09 16:49:12,135 log Not Found: /api/booking/
+WARNING 2025-06-09 16:49:12,135 basehttp "POST /api/booking/ HTTP/1.1" 404 7555
+ERROR 2025-06-09 16:49:23,290 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:49:23,290 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+INFO 2025-06-09 16:50:52,890 autoreload D:\Interview\BookingApi\Booking_App\urls.py changed, reloading.
+INFO 2025-06-09 16:50:53,550 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 16:51:40,368 basehttp "GET /api/bookings/ HTTP/1.1" 200 673
+INFO 2025-06-09 16:52:24,356 basehttp "GET /api/classes/ HTTP/1.1" 200 579
+WARNING 2025-06-09 16:52:47,787 log Bad Request: /api/bookings/
+WARNING 2025-06-09 16:52:47,787 basehttp "POST /api/bookings/ HTTP/1.1" 400 28
+ERROR 2025-06-09 16:53:00,526 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:53:00,526 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+ERROR 2025-06-09 16:53:42,705 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:53:42,705 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+INFO 2025-06-09 16:54:26,126 basehttp "GET / HTTP/1.1" 200 4907
+INFO 2025-06-09 16:54:29,795 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 16:54:29,811 basehttp "GET / HTTP/1.1" 200 4948
+INFO 2025-06-09 16:54:31,277 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 16:54:40,074 basehttp "POST /login/ HTTP/1.1" 200 2215
+INFO 2025-06-09 16:54:46,674 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 16:54:46,682 basehttp "GET / HTTP/1.1" 200 4793
+INFO 2025-06-09 16:54:54,221 basehttp "GET /book/5/ HTTP/1.1" 200 1419
+INFO 2025-06-09 16:55:01,083 basehttp "POST /book/5/ HTTP/1.1" 200 1550
+ERROR 2025-06-09 16:56:48,635 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:56:48,635 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+INFO 2025-06-09 16:57:06,543 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 302 0
+INFO 2025-06-09 16:57:06,558 basehttp "GET /admin/login/?next=/admin/Booking_App/booking/ HTTP/1.1" 200 3733
+INFO 2025-06-09 16:57:14,146 basehttp "POST /admin/login/?next=/admin/Booking_App/booking/ HTTP/1.1" 302 0
+INFO 2025-06-09 16:57:14,170 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 13630
+INFO 2025-06-09 16:57:14,195 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 16:57:22,267 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 12006
+INFO 2025-06-09 16:57:22,279 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+ERROR 2025-06-09 16:57:30,450 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:57:30,450 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+ERROR 2025-06-09 16:57:46,237 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 16:57:46,237 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+INFO 2025-06-09 16:57:49,134 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 13630
+INFO 2025-06-09 16:57:49,148 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2025-06-09 16:58:04,489 log Forbidden (CSRF cookie not set.): /admin/Booking_App/booking/
+WARNING 2025-06-09 16:58:04,489 basehttp "POST /admin/Booking_App/booking/ HTTP/1.1" 403 2855
+INFO 2025-06-09 17:05:14,429 autoreload D:\Interview\BookingApi\Booking_App\models.py changed, reloading.
+INFO 2025-06-09 17:05:15,136 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 17:05:46,966 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 17:05:47,498 autoreload Watching for file changes with StatReloader
+WARNING 2025-06-09 17:05:55,159 log Forbidden: /api/bookings/
+WARNING 2025-06-09 17:05:55,159 basehttp "POST /api/bookings/ HTTP/1.1" 403 58
+WARNING 2025-06-09 17:06:05,525 log Forbidden: /api/bookings/
+WARNING 2025-06-09 17:06:05,525 basehttp "POST /api/bookings/ HTTP/1.1" 403 58
+WARNING 2025-06-09 17:06:11,533 log Forbidden: /api/bookings/
+WARNING 2025-06-09 17:06:11,533 basehttp "POST /api/bookings/ HTTP/1.1" 403 58
+INFO 2025-06-09 17:06:58,918 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 17:06:59,517 autoreload Watching for file changes with StatReloader
+ERROR 2025-06-09 17:07:08,275 log Internal Server Error: /api/bookings/
+ERROR 2025-06-09 17:07:08,275 basehttp "POST /api/bookings/ HTTP/1.1" 500 33
+INFO 2025-06-09 17:07:15,957 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 17:07:16,517 autoreload Watching for file changes with StatReloader
+WARNING 2025-06-09 17:07:19,387 log Forbidden: /api/bookings/
+WARNING 2025-06-09 17:07:19,387 basehttp "POST /api/bookings/ HTTP/1.1" 403 58
+INFO 2025-06-09 17:09:18,037 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 13630
+INFO 2025-06-09 17:09:18,053 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 17:12:01,680 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 17:12:02,227 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 17:12:11,306 autoreload D:\Interview\BookingApi\Booking_App\forms.py changed, reloading.
+INFO 2025-06-09 17:12:11,951 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 17:12:31,305 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 17:12:31,828 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 17:12:33,612 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 17:12:34,186 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 17:13:02,835 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 17:13:03,402 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 17:13:12,336 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 17:13:13,025 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 17:13:27,326 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 17:13:27,853 autoreload Watching for file changes with StatReloader
+WARNING 2025-06-09 17:13:40,138 log Bad Request: /api/bookings/
+WARNING 2025-06-09 17:13:40,138 basehttp "POST /api/bookings/ HTTP/1.1" 400 56
+INFO 2025-06-09 17:14:14,506 basehttp "POST /api/bookings/ HTTP/1.1" 201 131
+INFO 2025-06-09 17:14:24,393 basehttp "POST /api/bookings/ HTTP/1.1" 201 135
+INFO 2025-06-09 17:15:38,561 basehttp "GET /api/bookings/ HTTP/1.1" 200 828
+WARNING 2025-06-09 17:17:16,895 log Bad Request: /api/bookings/
+WARNING 2025-06-09 17:17:16,895 basehttp "POST /api/bookings/ HTTP/1.1" 400 56
+INFO 2025-06-09 18:20:54,226 basehttp "GET / HTTP/1.1" 200 4910
+INFO 2025-06-09 18:20:56,063 basehttp "GET / HTTP/1.1" 200 4910
+INFO 2025-06-09 18:20:57,859 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 18:20:57,870 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 18:20:59,735 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 18:21:05,163 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 18:21:17,048 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 18:21:17,059 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 18:21:26,662 basehttp "GET /book/2/ HTTP/1.1" 200 1413
+INFO 2025-06-09 18:21:32,757 basehttp "POST /book/2/ HTTP/1.1" 200 1544
+INFO 2025-06-09 18:21:42,768 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 18:23:29,575 autoreload D:\Interview\BookingApi\Booking_App\models.py changed, reloading.
+INFO 2025-06-09 18:23:30,262 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 18:24:41,445 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 18:24:41,968 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 18:24:48,807 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 18:24:49,363 autoreload Watching for file changes with StatReloader
+WARNING 2025-06-09 18:24:57,294 log Bad Request: /api/bookings/
+WARNING 2025-06-09 18:24:57,294 basehttp "POST /api/bookings/ HTTP/1.1" 400 56
+INFO 2025-06-09 18:25:08,486 basehttp "POST /api/bookings/ HTTP/1.1" 201 147
+WARNING 2025-06-09 18:25:18,454 log Bad Request: /api/bookings/
+WARNING 2025-06-09 18:25:18,460 basehttp "POST /api/bookings/ HTTP/1.1" 400 30
+INFO 2025-06-09 18:25:25,247 basehttp "POST /api/bookings/ HTTP/1.1" 201 150
+INFO 2025-06-09 18:25:34,181 basehttp "GET / HTTP/1.1" 200 4794
+INFO 2025-06-09 18:25:39,546 basehttp "GET /book/1/ HTTP/1.1" 200 1225
+INFO 2025-06-09 18:25:40,985 basehttp "GET / HTTP/1.1" 200 4794
+INFO 2025-06-09 18:25:43,306 basehttp "GET /book/2/ HTTP/1.1" 200 1413
+INFO 2025-06-09 18:25:48,706 basehttp "POST /book/2/ HTTP/1.1" 200 1544
+INFO 2025-06-09 18:25:52,868 basehttp "GET / HTTP/1.1" 200 4794
+INFO 2025-06-09 18:29:56,320 basehttp "GET /book/1/ HTTP/1.1" 200 1225
+INFO 2025-06-09 18:29:58,332 basehttp "GET / HTTP/1.1" 200 4794
+INFO 2025-06-09 18:30:11,640 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 18:30:12,207 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 18:30:26,241 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 18:30:26,780 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 18:30:42,057 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 18:30:42,597 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 18:30:49,368 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 18:30:49,891 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 18:31:06,220 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 18:31:06,850 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 18:31:11,763 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 18:31:12,408 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 18:31:16,289 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 18:31:16,843 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 18:31:28,561 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 18:31:28,576 basehttp "GET / HTTP/1.1" 200 4949
+INFO 2025-06-09 18:31:30,243 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 18:31:32,239 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 18:31:33,865 basehttp "GET /password_reset/ HTTP/1.1" 200 1258
+INFO 2025-06-09 18:31:47,205 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 302 0
+INFO 2025-06-09 18:31:47,220 basehttp "GET /admin/login/?next=/admin/Booking_App/booking/ HTTP/1.1" 200 4217
+INFO 2025-06-09 19:43:37,359 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 20:06:48,409 basehttp "GET / HTTP/1.1" 200 4949
+INFO 2025-06-09 20:07:59,933 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 20:08:04,884 basehttp "GET / HTTP/1.1" 200 1195
+INFO 2025-06-09 20:08:14,800 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 20:08:27,448 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:08:27,458 basehttp "GET / HTTP/1.1" 200 1214
+INFO 2025-06-09 20:08:33,505 basehttp "GET /admin/ HTTP/1.1" 200 8520
+INFO 2025-06-09 20:08:37,145 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 9299
+INFO 2025-06-09 20:08:37,165 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:08:38,977 basehttp "GET /admin/Booking_App/classtype/add/ HTTP/1.1" 200 10068
+INFO 2025-06-09 20:08:38,994 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:08:54,263 basehttp "POST /admin/Booking_App/classtype/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:08:54,280 basehttp "GET /admin/Booking_App/classtype/add/ HTTP/1.1" 200 10317
+INFO 2025-06-09 20:08:54,291 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:09:03,718 basehttp "POST /admin/Booking_App/classtype/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:09:03,730 basehttp "GET /admin/Booking_App/classtype/add/ HTTP/1.1" 200 10314
+INFO 2025-06-09 20:09:03,742 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:09:40,503 basehttp "POST /admin/Booking_App/classtype/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:09:40,514 basehttp "GET /admin/Booking_App/classtype/add/ HTTP/1.1" 200 10326
+INFO 2025-06-09 20:09:40,524 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:10:13,133 basehttp "POST /admin/Booking_App/classtype/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:10:13,137 basehttp "GET /admin/Booking_App/classtype/add/ HTTP/1.1" 200 10345
+INFO 2025-06-09 20:10:13,159 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:10:17,426 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 11474
+INFO 2025-06-09 20:10:17,434 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:10:21,198 basehttp "GET /admin/Booking_App/fitnessclass/ HTTP/1.1" 200 9320
+INFO 2025-06-09 20:10:21,211 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:10:23,040 basehttp "GET /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 200 14066
+INFO 2025-06-09 20:10:23,055 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:10:32,557 basehttp "GET /static/admin/img/calendar-icons.svg HTTP/1.1" 304 0
+INFO 2025-06-09 20:10:47,710 basehttp "POST /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:10:47,732 basehttp "GET /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 200 14360
+INFO 2025-06-09 20:10:47,745 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:10:53,465 basehttp "GET /admin/Booking_App/classtype/add/ HTTP/1.1" 200 10068
+INFO 2025-06-09 20:10:53,478 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:11:00,161 basehttp "POST /admin/Booking_App/classtype/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:11:00,177 basehttp "GET /admin/Booking_App/classtype/add/ HTTP/1.1" 200 10314
+INFO 2025-06-09 20:11:00,190 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:11:04,527 basehttp "POST /admin/Booking_App/classtype/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:11:04,541 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 12215
+INFO 2025-06-09 20:11:04,557 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:11:07,672 basehttp "GET /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 200 14137
+INFO 2025-06-09 20:11:07,687 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:11:31,546 basehttp "POST /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:11:31,563 basehttp "GET /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 200 14429
+INFO 2025-06-09 20:11:31,575 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:11:53,451 basehttp "POST /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:11:53,464 basehttp "GET /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 200 14440
+INFO 2025-06-09 20:11:53,483 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:12:12,159 basehttp "POST /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:12:12,174 basehttp "GET /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 200 14460
+INFO 2025-06-09 20:12:12,187 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:12:29,624 basehttp "POST /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:12:29,640 basehttp "GET /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 200 14430
+INFO 2025-06-09 20:12:29,651 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:12:49,192 basehttp "POST /admin/Booking_App/fitnessclass/add/ HTTP/1.1" 302 0
+INFO 2025-06-09 20:12:49,233 basehttp "GET /admin/Booking_App/fitnessclass/ HTTP/1.1" 200 12739
+INFO 2025-06-09 20:12:49,258 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:12:52,425 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 9280
+INFO 2025-06-09 20:12:52,436 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:12:53,354 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 12006
+INFO 2025-06-09 20:12:53,367 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 20:13:01,205 basehttp "GET / HTTP/1.1" 200 4910
+INFO 2025-06-09 20:53:19,256 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 20:53:28,928 basehttp "GET / HTTP/1.1" 200 4951
+WARNING 2025-06-09 20:53:29,022 log Not Found: /favicon.ico
+WARNING 2025-06-09 20:53:29,022 basehttp "GET /favicon.ico HTTP/1.1" 404 4778
+INFO 2025-06-09 21:05:36,433 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 21:06:13,413 basehttp "POST /register/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:06:13,438 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:06:39,268 basehttp "GET /book/5/ HTTP/1.1" 200 1409
+INFO 2025-06-09 21:07:07,560 basehttp "POST /book/5/ HTTP/1.1" 200 1540
+INFO 2025-06-09 21:07:54,370 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:07:56,543 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:07:56,568 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:07:59,187 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:08:10,860 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:08:10,892 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:08:13,030 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:08:13,055 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:08:14,927 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:08:18,490 basehttp "GET /password_reset/ HTTP/1.1" 200 1258
+INFO 2025-06-09 21:08:30,401 basehttp "POST /password_reset/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:08:30,428 basehttp "GET /password_reset_done/ HTTP/1.1" 200 1152
+INFO 2025-06-09 21:10:31,870 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:10:35,734 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:11:23,133 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 21:11:36,877 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:11:39,106 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:11:53,910 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:11:53,925 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:12:10,997 basehttp "GET /book/5/ HTTP/1.1" 200 1409
+INFO 2025-06-09 21:12:37,904 basehttp "POST /book/5/ HTTP/1.1" 200 1540
+INFO 2025-06-09 21:12:48,645 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:12:54,510 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:12:54,530 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:13:03,781 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 21:13:08,360 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:34:00,248 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:36:24,482 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 21:36:31,658 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:36:33,751 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:36:53,392 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:36:53,415 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:37:30,046 basehttp "GET /book/5/ HTTP/1.1" 200 1409
+INFO 2025-06-09 21:37:50,034 basehttp "POST /book/5/ HTTP/1.1" 200 1540
+INFO 2025-06-09 21:38:25,612 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:38:27,652 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:38:27,674 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:38:36,655 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 21:38:43,375 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:40:40,306 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 21:40:47,503 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:40:50,387 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:41:00,883 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:41:00,907 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:41:30,883 basehttp "GET /book/6/ HTTP/1.1" 200 1407
+INFO 2025-06-09 21:41:45,653 basehttp "POST /book/6/ HTTP/1.1" 200 1538
+INFO 2025-06-09 21:42:16,332 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:42:17,723 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:42:17,750 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:42:21,653 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:42:31,233 basehttp "POST /login/ HTTP/1.1" 200 2215
+INFO 2025-06-09 21:42:44,453 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:42:44,480 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:43:53,204 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:43:53,222 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:46:39,012 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 21:46:56,604 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:46:58,896 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:47:08,781 basehttp "POST /login/ HTTP/1.1" 200 2215
+INFO 2025-06-09 21:47:28,420 basehttp "POST /login/ HTTP/1.1" 200 2224
+INFO 2025-06-09 21:47:59,278 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:48:57,591 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 21:49:12,821 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:49:16,871 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:49:29,070 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:49:29,083 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:49:53,115 basehttp "GET /book/2/ HTTP/1.1" 200 1408
+INFO 2025-06-09 21:50:13,964 basehttp "POST /book/2/ HTTP/1.1" 200 1539
+INFO 2025-06-09 21:50:40,186 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:50:47,685 basehttp "GET /book/5/ HTTP/1.1" 200 1228
+INFO 2025-06-09 21:51:08,542 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 21:51:11,051 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 21:51:11,062 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 21:51:13,887 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 21:51:19,064 basehttp "GET /password_reset/ HTTP/1.1" 200 1258
+INFO 2025-06-09 21:59:05,916 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 22:00:29,139 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 22:00:42,391 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 22:00:45,624 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 22:01:44,703 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:01:44,716 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 22:01:57,065 basehttp "GET /book/3/ HTTP/1.1" 200 1419
+INFO 2025-06-09 22:02:14,511 basehttp "POST /book/3/ HTTP/1.1" 200 1550
+INFO 2025-06-09 22:02:44,940 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 22:02:56,888 basehttp "GET /book/5/ HTTP/1.1" 200 1228
+INFO 2025-06-09 22:03:08,416 basehttp "GET / HTTP/1.1" 200 4796
+INFO 2025-06-09 22:03:10,211 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:03:10,229 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 22:03:13,131 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 22:03:23,181 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:03:23,201 basehttp "GET / HTTP/1.1" 200 4910
+INFO 2025-06-09 22:03:34,015 basehttp "GET /admin/ HTTP/1.1" 200 12439
+INFO 2025-06-09 22:03:34,036 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:34,037 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:34,037 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:34,038 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:34,041 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:34,042 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:34,044 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:34,047 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:34,048 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,002 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 12006
+INFO 2025-06-09 22:03:51,023 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,024 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,026 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,026 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,028 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,029 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,033 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 22:03:51,032 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,033 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,034 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,035 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:51,044 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-06-09 22:03:52,884 basehttp "GET /admin/Booking_App/fitnessclass/ HTTP/1.1" 200 12489
+INFO 2025-06-09 22:03:52,907 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 22:03:55,976 basehttp "GET /admin/Booking_App/booking/ HTTP/1.1" 200 12465
+INFO 2025-06-09 22:03:55,993 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 22:04:00,005 basehttp "GET /admin/Booking_App/fitnessclass/ HTTP/1.1" 200 12489
+INFO 2025-06-09 22:04:00,754 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 12006
+INFO 2025-06-09 22:04:01,187 basehttp "GET /admin/ HTTP/1.1" 200 12439
+INFO 2025-06-09 22:04:03,811 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:04:03,829 basehttp "GET / HTTP/1.1" 200 4951
+INFO 2025-06-09 22:14:05,136 basehttp "GET /api/classes/ HTTP/1.1" 200 579
+INFO 2025-06-09 22:15:03,659 basehttp "POST /api/bookings/ HTTP/1.1" 201 148
+INFO 2025-06-09 22:15:36,843 basehttp "GET /api/bookings/ HTTP/1.1" 200 526
+INFO 2025-06-09 22:16:27,276 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:16:27,841 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:16:29,619 basehttp "GET /api/bookings/ HTTP/1.1" 200 526
+INFO 2025-06-09 22:16:34,139 basehttp "GET /api/bookings/ HTTP/1.1" 200 526
+INFO 2025-06-09 22:16:42,592 basehttp "POST /api/bookings/ HTTP/1.1" 201 132
+INFO 2025-06-09 22:16:57,204 basehttp "POST /api/bookings/ HTTP/1.1" 201 143
+INFO 2025-06-09 22:17:09,632 basehttp "GET /api/bookings/ HTTP/1.1" 200 676
+INFO 2025-06-09 22:17:41,044 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:17:41,459 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:17:45,061 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:17:45,510 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:17:52,034 basehttp "GET /api/bookings/ HTTP/1.1" 200 757
+INFO 2025-06-09 22:18:20,873 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:18:21,397 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:18:31,376 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:18:31,876 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:23:14,426 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:23:14,914 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:23:16,477 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:23:16,929 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:23:54,965 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:23:55,379 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:23:59,154 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:23:59,559 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:24:06,420 autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+INFO 2025-06-09 22:24:06,895 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:24:13,086 basehttp "GET /api/bookings/ HTTP/1.1" 200 757
+INFO 2025-06-09 22:24:25,491 basehttp "POST /api/bookings/ HTTP/1.1" 201 159
+INFO 2025-06-09 22:24:32,938 basehttp "POST /api/bookings/ HTTP/1.1" 201 149
+INFO 2025-06-09 22:24:37,797 basehttp "POST /api/bookings/ HTTP/1.1" 201 149
+INFO 2025-06-09 22:24:47,455 basehttp "GET /api/bookings/ HTTP/1.1" 200 1012
+INFO 2025-06-09 22:24:57,408 basehttp "GET /api/classes/ HTTP/1.1" 200 579
+INFO 2025-06-09 22:25:46,111 autoreload D:\Interview\BookingApi\Booking_Api\settings.py changed, reloading.
+INFO 2025-06-09 22:25:46,662 autoreload Watching for file changes with StatReloader
+INFO 2025-06-09 22:26:33,347 basehttp "GET / HTTP/1.1" 200 4909
+WARNING 2025-06-09 22:26:33,473 log Not Found: /favicon.ico
+WARNING 2025-06-09 22:26:33,473 basehttp "GET /favicon.ico HTTP/1.1" 404 4778
+INFO 2025-06-09 22:28:27,321 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:28:27,330 basehttp "GET / HTTP/1.1" 200 4950
+INFO 2025-06-09 22:37:47,331 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 22:38:02,780 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 22:39:00,158 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:39:00,171 basehttp "GET / HTTP/1.1" 200 4795
+INFO 2025-06-09 22:39:29,965 basehttp "GET /book/3/ HTTP/1.1" 200 1419
+INFO 2025-06-09 22:39:54,292 basehttp "POST /book/3/ HTTP/1.1" 200 1550
+INFO 2025-06-09 22:40:23,693 basehttp "GET / HTTP/1.1" 200 4795
+INFO 2025-06-09 22:40:33,776 basehttp "GET /book/5/ HTTP/1.1" 200 1228
+INFO 2025-06-09 22:40:43,074 basehttp "GET / HTTP/1.1" 200 4795
+INFO 2025-06-09 22:40:44,825 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:40:44,835 basehttp "GET / HTTP/1.1" 200 4950
+INFO 2025-06-09 22:40:47,038 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 22:41:00,264 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:41:00,268 basehttp "GET / HTTP/1.1" 200 4909
+INFO 2025-06-09 22:41:05,613 basehttp "GET /admin/ HTTP/1.1" 200 12439
+INFO 2025-06-09 22:41:05,627 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:05,635 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:05,635 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:05,638 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:05,638 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:05,638 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:05,643 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:05,645 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:05,645 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,008 basehttp "GET /admin/Booking_App/classtype/ HTTP/1.1" 200 12006
+INFO 2025-06-09 22:41:18,033 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,036 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,036 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,039 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,039 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,039 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,039 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,039 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,039 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,039 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-06-09 22:41:18,045 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:18,062 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-06-09 22:41:24,918 basehttp "GET /admin/ HTTP/1.1" 200 12439
+INFO 2025-06-09 22:41:28,871 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:41:28,883 basehttp "GET / HTTP/1.1" 200 4950
+INFO 2025-06-09 22:48:20,562 basehttp "GET /api/classes/ HTTP/1.1" 200 579
+INFO 2025-06-09 22:49:17,806 basehttp "POST /api/bookings/ HTTP/1.1" 201 148
+INFO 2025-06-09 22:49:47,993 basehttp "GET /api/bookings/ HTTP/1.1" 200 1182
+INFO 2025-06-09 22:53:07,794 basehttp "GET /register/ HTTP/1.1" 200 2763
+INFO 2025-06-09 22:53:20,278 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 22:53:34,558 basehttp "GET /password_reset/ HTTP/1.1" 200 1258
+INFO 2025-06-09 22:53:58,872 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 22:54:13,201 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:54:13,213 basehttp "GET / HTTP/1.1" 200 4795
+INFO 2025-06-09 22:54:37,994 basehttp "GET /book/4/ HTTP/1.1" 200 1439
+INFO 2025-06-09 22:55:00,600 basehttp "POST /book/4/ HTTP/1.1" 200 1570
+INFO 2025-06-09 22:55:38,571 basehttp "GET / HTTP/1.1" 200 4795
+INFO 2025-06-09 22:55:49,596 basehttp "GET /book/5/ HTTP/1.1" 200 1228
+INFO 2025-06-09 22:56:01,878 basehttp "GET / HTTP/1.1" 200 4795
+INFO 2025-06-09 22:56:04,462 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:56:04,488 basehttp "GET / HTTP/1.1" 200 4950
+INFO 2025-06-09 22:56:07,029 basehttp "GET /login/ HTTP/1.1" 200 2056
+INFO 2025-06-09 22:56:16,700 basehttp "POST /login/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:56:16,738 basehttp "GET / HTTP/1.1" 200 4909
+INFO 2025-06-09 22:56:22,149 basehttp "GET /admin/ HTTP/1.1" 200 12439
+INFO 2025-06-09 22:56:49,427 basehttp "GET /logout/ HTTP/1.1" 302 0
+INFO 2025-06-09 22:56:49,443 basehttp "GET / HTTP/1.1" 200 4950
+INFO 2025-06-09 23:04:38,837 basehttp "GET /api/classes/ HTTP/1.1" 200 579
+INFO 2025-06-09 23:05:15,243 basehttp "POST /api/bookings/ HTTP/1.1" 201 148
+INFO 2025-06-09 23:05:57,547 basehttp "GET /api/bookings/ HTTP/1.1" 200 1352

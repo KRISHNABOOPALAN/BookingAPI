@@ -1,0 +1,375 @@
+2025-06-07 21:20:06,393 INFO django.utils.autoreload Watching for file changes with StatReloader
+2025-06-07 21:20:17,514 INFO django.utils.autoreload D:\Interview\BookingApi\Booking_App\api.py changed, reloading.
+2025-06-07 21:20:18,114 INFO django.utils.autoreload Watching for file changes with StatReloader
+2025-06-07 21:23:08,966 INFO django.utils.autoreload D:\Interview\BookingApi\Booking_App\views.py changed, reloading.
+2025-06-07 21:23:09,605 INFO django.utils.autoreload Watching for file changes with StatReloader
+2025-06-07 21:32:20,157 INFO django.utils.autoreload Watching for file changes with StatReloader
+2025-06-07 21:32:25,130 - INFO - User logged out: Krishna
+2025-06-07 21:32:25,143 INFO django.server "GET /logout/ HTTP/1.1" 302 0
+2025-06-07 21:32:25,143 - INFO - Home page accessed
+2025-06-07 21:32:25,158 INFO django.server "GET / HTTP/1.1" 200 4948
+2025-06-07 21:32:27,428 INFO django.server "GET /register/ HTTP/1.1" 200 2717
+2025-06-07 21:33:22,268 - WARNING - User registration failed: Invalid form submission
+2025-06-07 21:33:22,274 INFO django.server "POST /register/ HTTP/1.1" 200 2909
+2025-06-07 21:34:15,481 - INFO - New user registered: JohnMorkle
+2025-06-07 21:34:15,490 INFO django.server "POST /register/ HTTP/1.1" 302 0
+2025-06-07 21:34:15,493 - INFO - Home page accessed
+2025-06-07 21:34:15,509 INFO django.server "GET / HTTP/1.1" 200 4795
+2025-06-07 21:34:18,066 INFO django.server "GET /book/1/ HTTP/1.1" 200 1225
+2025-06-07 21:34:21,567 - INFO - Home page accessed
+2025-06-07 21:34:21,579 INFO django.server "GET / HTTP/1.1" 200 4795
+2025-06-07 21:34:23,388 INFO django.server "GET /book/2/ HTTP/1.1" 200 1413
+2025-06-07 21:34:24,759 - INFO - Home page accessed
+2025-06-07 21:34:24,775 INFO django.server "GET / HTTP/1.1" 200 4795
+2025-06-07 21:34:26,287 INFO django.server "GET /book/4/ HTTP/1.1" 200 1409
+2025-06-07 21:34:27,885 - INFO - Booking confirmed for JohnMorkle in class ID 4
+2025-06-07 21:34:32,195 - INFO - Email sent to morkle@gmail.com for class ID 4
+2025-06-07 21:34:32,195 INFO django.server "POST /book/4/ HTTP/1.1" 200 1540
+2025-06-07 21:34:35,962 - INFO - Home page accessed
+2025-06-07 21:34:35,980 INFO django.server "GET / HTTP/1.1" 200 4794
+2025-06-07 21:41:33,548 - INFO - Booking confirmed for JohnMorkle in class ID 5
+2025-06-07 21:41:37,696 - INFO - Email sent to morkle@gmail.com for class ID 5
+2025-06-07 21:44:08,839 - INFO - Home page accessed
+2025-06-08 07:29:52,473 - INFO - Home page accessed
+2025-06-08 07:36:23,892 - INFO - New user registered: nithiya
+2025-06-08 07:36:23,907 - INFO - Home page accessed
+2025-06-08 07:37:02,721 - INFO - Booking confirmed for nithiya in class ID 6
+2025-06-08 07:37:07,409 - INFO - Email sent to kdhinesh2634893@gmail.com for class ID 6
+2025-06-08 07:38:48,022 - INFO - Home page accessed
+2025-06-08 07:38:57,907 - INFO - Home page accessed
+2025-06-08 08:00:24,178 - INFO - User logged out: nithiya
+2025-06-08 08:00:24,190 - INFO - Home page accessed
+2025-06-08 08:01:18,511 - INFO - Home page accessed
+2025-06-08 08:05:06,102 - INFO - User logged out: nithiya
+2025-06-08 08:05:06,116 - INFO - Home page accessed
+2025-06-08 08:05:07,986 - INFO - Home page accessed
+2025-06-08 08:05:43,726 - INFO - Home page accessed
+2025-06-08 08:05:59,366 - INFO - Home page accessed
+2025-06-08 08:06:01,893 - INFO - User logged out: Krishna
+2025-06-08 08:06:01,907 - INFO - Home page accessed
+2025-06-08 08:06:12,286 - INFO - Home page accessed
+2025-06-08 08:08:40,961 - INFO - Home page accessed
+2025-06-08 08:09:12,466 - INFO - Home page accessed
+2025-06-08 08:11:14,104 - INFO - Home page accessed
+2025-06-08 08:11:30,723 - INFO - Home page accessed
+2025-06-09 12:23:04,847 - INFO - Home page accessed
+2025-06-09 12:23:07,085 - INFO - User logged out: Admin
+2025-06-09 12:23:07,096 - INFO - Home page accessed
+2025-06-09 13:04:49,874 - INFO - Home page accessed
+2025-06-09 13:05:15,068 - INFO - User logged out: Admin
+2025-06-09 13:05:15,086 - INFO - Home page accessed
+2025-06-09 13:12:32,652 - INFO - Home page accessed
+2025-06-09 13:45:21,134 - INFO - Home page accessed
+2025-06-09 13:45:38,339 - INFO - User logged out: Admin
+2025-06-09 13:45:38,347 - INFO - Home page accessed
+2025-06-09 13:45:50,974 - INFO - Home page accessed
+2025-06-09 13:45:53,772 - INFO - User logged out: Krishna
+2025-06-09 13:45:53,788 - INFO - Home page accessed
+2025-06-09 13:46:27,806 - INFO - Home page accessed
+2025-06-09 13:46:28,862 - INFO - Home page accessed
+2025-06-09 13:46:29,059 - INFO - Home page accessed
+2025-06-09 13:46:29,246 - INFO - Home page accessed
+2025-06-09 13:46:29,427 - INFO - Home page accessed
+2025-06-09 13:47:24,062 - INFO - Home page accessed
+2025-06-09 13:47:40,451 - INFO - Home page accessed
+2025-06-09 13:48:09,855 - INFO - Home page accessed
+2025-06-09 13:48:42,009 - INFO - Home page accessed
+2025-06-09 13:49:02,185 - INFO - Home page accessed
+2025-06-09 13:49:07,450 - INFO - User logged out: Krishna
+2025-06-09 13:49:07,471 - INFO - Home page accessed
+2025-06-09 13:52:25,185 - INFO - Home page accessed
+2025-06-09 13:52:30,484 - INFO - Home page accessed
+2025-06-09 13:52:35,301 - INFO - Home page accessed
+2025-06-09 13:52:54,326 - INFO - Home page accessed
+2025-06-09 13:53:12,063 - INFO - Home page accessed
+2025-06-09 13:53:16,331 - INFO - User logged out: Krishna
+2025-06-09 13:53:16,346 - INFO - Home page accessed
+2025-06-09 13:53:28,087 - INFO - Home page accessed
+2025-06-09 13:53:40,863 - INFO - Home page accessed
+2025-06-09 13:56:46,279 - INFO - Home page accessed
+2025-06-09 13:58:47,202 - INFO - Home page accessed
+2025-06-09 13:59:01,343 - INFO - Home page accessed
+2025-06-09 13:59:12,305 - INFO - Home page accessed
+2025-06-09 13:59:26,466 - INFO - Home page accessed
+2025-06-09 14:02:12,783 - INFO - Home page accessed
+2025-06-09 14:02:20,468 - INFO - Home page accessed
+2025-06-09 14:03:03,296 - INFO - Home page accessed
+2025-06-09 14:03:47,918 - INFO - Home page accessed
+2025-06-09 14:04:40,284 - INFO - Home page accessed
+2025-06-09 14:05:36,817 - INFO - Home page accessed
+2025-06-09 14:07:47,688 - INFO - Home page accessed
+2025-06-09 14:08:33,374 - INFO - Home page accessed
+2025-06-09 14:09:41,456 - INFO - Home page accessed
+2025-06-09 14:09:54,325 - INFO - Home page accessed
+2025-06-09 14:10:04,620 - INFO - Home page accessed
+2025-06-09 14:12:12,716 - INFO - User logged out: Admin
+2025-06-09 14:12:12,732 - INFO - Home page accessed
+2025-06-09 14:12:23,868 - INFO - Home page accessed
+2025-06-09 14:12:43,446 - INFO - User logged out: Krishna
+2025-06-09 14:12:43,463 - INFO - Home page accessed
+2025-06-09 16:29:54,015 - INFO - Home page accessed
+2025-06-09 16:30:09,069 - INFO - Home page accessed
+2025-06-09 16:34:14,173 - INFO - Booking confirmed for Admin in class ID 2
+2025-06-09 16:34:14,194 - INFO - Email sent to  for class ID 2
+2025-06-09 16:34:23,568 - INFO - Home page accessed
+2025-06-09 16:36:57,926 - INFO - Fetched class list
+2025-06-09 16:37:51,273 - INFO - Booking attempt: None - None
+2025-06-09 16:37:51,273 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:37:56,345 - INFO - Booking attempt: None - None
+2025-06-09 16:37:56,345 - WARNING - Missing fitness_class in booking request
+2025-06-09 16:38:17,713 - INFO - Booking attempt: None - None
+2025-06-09 16:38:17,715 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:39:07,978 - INFO - Booking attempt: None - None
+2025-06-09 16:39:07,978 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:40:24,029 - INFO - Booking attempt: None - None
+2025-06-09 16:40:24,029 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:43:31,652 - INFO - Booking attempt: None - None
+2025-06-09 16:43:31,656 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:45:48,374 - INFO - Booking attempt: None - None
+2025-06-09 16:45:48,374 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:46:34,432 - INFO - Booking attempt: None - None
+2025-06-09 16:46:34,435 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:47:25,249 - INFO - Booking attempt: None - None
+2025-06-09 16:47:25,249 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:47:58,014 - INFO - Booking attempt: None - None
+2025-06-09 16:47:58,014 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:49:23,282 - INFO - Booking attempt: None - None
+2025-06-09 16:49:23,288 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:52:24,356 - INFO - Fetched class list
+2025-06-09 16:52:47,780 - INFO - Booking attempt: None - None
+2025-06-09 16:52:47,780 - WARNING - Missing fitness_class in booking request
+2025-06-09 16:53:00,518 - INFO - Booking attempt: None - None
+2025-06-09 16:53:00,518 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:53:42,699 - INFO - Booking attempt: None - None
+2025-06-09 16:53:42,699 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:54:26,094 - INFO - Home page accessed
+2025-06-09 16:54:29,783 - INFO - User logged out: Admin
+2025-06-09 16:54:29,795 - INFO - Home page accessed
+2025-06-09 16:54:46,678 - INFO - Home page accessed
+2025-06-09 16:54:56,592 - INFO - Booking confirmed for Krishna in class ID 5
+2025-06-09 16:55:01,083 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 5
+2025-06-09 16:56:48,635 - INFO - Booking attempt: None - None
+2025-06-09 16:56:48,635 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:57:30,444 - INFO - Booking attempt: None - None
+2025-06-09 16:57:30,444 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 16:57:46,235 - INFO - Booking attempt: None - None
+2025-06-09 16:57:46,235 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 17:07:08,275 - INFO - Booking attempt: None - None
+2025-06-09 17:07:08,275 - ERROR - Unexpected error during booking
+Traceback (most recent call last):
+  File "D:\Interview\BookingApi\Booking_App\api.py", line 50, in create
+    if fitness_class.available_slots <= 0:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FitnessClass' object has no attribute 'available_slots'
+2025-06-09 17:13:40,138 - INFO - Booking attempt: None
+2025-06-09 17:14:14,475 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 17:14:14,504 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class Yoga with John on 2025-06-02 at 06:00:00
+2025-06-09 17:14:24,368 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 17:14:24,393 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class Pilates with Krish on 2025-06-09 at 18:30:00
+2025-06-09 17:17:16,893 - INFO - Booking attempt: None
+2025-06-09 18:20:54,199 - INFO - Home page accessed
+2025-06-09 18:20:56,054 - INFO - Home page accessed
+2025-06-09 18:20:57,847 - INFO - User logged out: Admin
+2025-06-09 18:20:57,859 - INFO - Home page accessed
+2025-06-09 18:21:17,052 - INFO - Home page accessed
+2025-06-09 18:21:28,429 - INFO - Booking confirmed for Krishna in class ID 2
+2025-06-09 18:21:32,755 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 2
+2025-06-09 18:21:42,762 - INFO - Home page accessed
+2025-06-09 18:24:57,293 - INFO - Booking attempt: None
+2025-06-09 18:25:08,463 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 18:25:08,486 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class Zumba with Raj on 2025-06-06 at 06:00:00
+2025-06-09 18:25:18,454 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 18:25:18,454 - WARNING - No available slots for class ID 1
+2025-06-09 18:25:25,238 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 18:25:25,247 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class Pilates with Krish on 2025-06-09 at 18:30:00
+2025-06-09 18:25:34,159 - INFO - Home page accessed
+2025-06-09 18:25:40,980 - INFO - Home page accessed
+2025-06-09 18:25:44,650 - INFO - Booking confirmed for Krishna in class ID 2
+2025-06-09 18:25:48,706 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 2
+2025-06-09 18:25:52,860 - INFO - Home page accessed
+2025-06-09 18:29:58,322 - INFO - Home page accessed
+2025-06-09 18:31:28,534 - INFO - User logged out: Krishna
+2025-06-09 18:31:28,561 - INFO - Home page accessed
+2025-06-09 20:06:48,359 - INFO - Home page accessed
+2025-06-09 20:08:04,876 - INFO - Home page accessed
+2025-06-09 20:08:27,452 - INFO - Home page accessed
+2025-06-09 20:13:01,187 - INFO - Home page accessed
+2025-06-09 20:53:28,906 - INFO - Home page accessed
+2025-06-09 21:06:13,413 - INFO - New user registered: Krishna
+2025-06-09 21:06:13,421 - INFO - Home page accessed
+2025-06-09 21:07:02,703 - INFO - Booking confirmed for Krishna in class ID 5
+2025-06-09 21:07:07,560 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 5
+2025-06-09 21:07:54,355 - INFO - Home page accessed
+2025-06-09 21:07:56,535 - INFO - User logged out: Krishna
+2025-06-09 21:07:56,552 - INFO - Home page accessed
+2025-06-09 21:08:10,864 - INFO - Home page accessed
+2025-06-09 21:08:13,023 - INFO - User logged out: Krishna
+2025-06-09 21:08:13,040 - INFO - Home page accessed
+2025-06-09 21:10:35,720 - INFO - Home page accessed
+2025-06-09 21:11:36,864 - INFO - Home page accessed
+2025-06-09 21:11:53,910 - INFO - Home page accessed
+2025-06-09 21:12:33,394 - INFO - Booking confirmed for Krishna in class ID 5
+2025-06-09 21:12:37,900 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 5
+2025-06-09 21:12:48,620 - INFO - Home page accessed
+2025-06-09 21:12:54,499 - INFO - User logged out: Krishna
+2025-06-09 21:12:54,510 - INFO - Home page accessed
+2025-06-09 21:13:08,346 - INFO - Home page accessed
+2025-06-09 21:34:00,239 - INFO - Home page accessed
+2025-06-09 21:36:31,639 - INFO - Home page accessed
+2025-06-09 21:36:53,403 - INFO - Home page accessed
+2025-06-09 21:37:45,235 - INFO - Booking confirmed for Krishna in class ID 5
+2025-06-09 21:37:50,032 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 5
+2025-06-09 21:38:25,596 - INFO - Home page accessed
+2025-06-09 21:38:27,642 - INFO - User logged out: Krishna
+2025-06-09 21:38:27,658 - INFO - Home page accessed
+2025-06-09 21:38:43,365 - INFO - Home page accessed
+2025-06-09 21:40:47,486 - INFO - Home page accessed
+2025-06-09 21:41:00,892 - INFO - Home page accessed
+2025-06-09 21:41:41,387 - INFO - Booking confirmed for Krishna in class ID 6
+2025-06-09 21:41:45,653 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 6
+2025-06-09 21:42:16,326 - INFO - Home page accessed
+2025-06-09 21:42:17,723 - INFO - User logged out: Krishna
+2025-06-09 21:42:17,738 - INFO - Home page accessed
+2025-06-09 21:42:44,453 - INFO - Home page accessed
+2025-06-09 21:43:53,182 - INFO - User logged out: Krishna
+2025-06-09 21:43:53,208 - INFO - Home page accessed
+2025-06-09 21:46:56,575 - INFO - Home page accessed
+2025-06-09 21:47:59,254 - INFO - Home page accessed
+2025-06-09 21:49:12,813 - INFO - Home page accessed
+2025-06-09 21:49:29,072 - INFO - Home page accessed
+2025-06-09 21:50:09,962 - INFO - Booking confirmed for Krishna in class ID 2
+2025-06-09 21:50:13,962 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 2
+2025-06-09 21:50:40,177 - INFO - Home page accessed
+2025-06-09 21:51:08,525 - INFO - Home page accessed
+2025-06-09 21:51:11,039 - INFO - User logged out: Krishna
+2025-06-09 21:51:11,053 - INFO - Home page accessed
+2025-06-09 21:59:05,898 - INFO - Home page accessed
+2025-06-09 22:00:42,372 - INFO - Home page accessed
+2025-06-09 22:01:44,707 - INFO - Home page accessed
+2025-06-09 22:02:10,175 - INFO - Booking confirmed for Krishna in class ID 3
+2025-06-09 22:02:14,509 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 3
+2025-06-09 22:02:44,911 - INFO - Home page accessed
+2025-06-09 22:03:08,405 - INFO - Home page accessed
+2025-06-09 22:03:10,205 - INFO - User logged out: Krishna
+2025-06-09 22:03:10,213 - INFO - Home page accessed
+2025-06-09 22:03:23,187 - INFO - Home page accessed
+2025-06-09 22:04:03,796 - INFO - User logged out: Admin
+2025-06-09 22:04:03,814 - INFO - Home page accessed
+2025-06-09 22:14:05,131 - INFO - Fetched class list
+2025-06-09 22:15:03,626 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 22:15:03,651 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class HIIT with Krish on 2025-06-11 at 08:00:00
+2025-06-09 22:16:42,583 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 22:16:42,592 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class HIIT with Krish on 2025-06-11 at 08:00:00
+2025-06-09 22:16:57,178 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 22:16:57,203 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class Bootcamp Classes with John on 2025-06-08 at 10:00:00
+2025-06-09 22:24:25,469 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 22:24:25,490 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class Bootcamp Classes with John on 2025-06-08 at 10:00:00
+2025-06-09 22:24:32,927 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 22:24:32,935 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class Pilates with Arun on 2025-06-09 at 06:00:00
+2025-06-09 22:24:37,775 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 22:24:37,797 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class Pilates with Arun on 2025-06-09 at 06:00:00
+2025-06-09 22:24:57,405 - INFO - Fetched class list
+2025-06-09 22:26:33,313 - INFO - Home page accessed
+2025-06-09 22:28:27,318 - INFO - User logged out: Admin
+2025-06-09 22:28:27,324 - INFO - Home page accessed
+2025-06-09 22:39:00,158 - INFO - Home page accessed
+2025-06-09 22:39:48,958 - INFO - Booking confirmed for Krishna in class ID 3
+2025-06-09 22:39:54,292 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 3
+2025-06-09 22:40:23,680 - INFO - Home page accessed
+2025-06-09 22:40:43,068 - INFO - Home page accessed
+2025-06-09 22:40:44,818 - INFO - User logged out: Krishna
+2025-06-09 22:40:44,828 - INFO - Home page accessed
+2025-06-09 22:41:00,266 - INFO - Home page accessed
+2025-06-09 22:41:28,860 - INFO - User logged out: Admin
+2025-06-09 22:41:28,875 - INFO - Home page accessed
+2025-06-09 22:48:20,558 - INFO - Fetched class list
+2025-06-09 22:49:17,775 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 22:49:17,803 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class HIIT with Krish on 2025-06-11 at 08:00:00
+2025-06-09 22:54:13,201 - INFO - Home page accessed
+2025-06-09 22:54:56,413 - INFO - Booking confirmed for Krishna in class ID 4
+2025-06-09 22:55:00,600 - INFO - Email sent to krishnakumarboopalan2002@gmail.com for class ID 4
+2025-06-09 22:55:38,543 - INFO - Home page accessed
+2025-06-09 22:56:01,865 - INFO - Home page accessed
+2025-06-09 22:56:04,438 - INFO - User logged out: Krishna
+2025-06-09 22:56:04,468 - INFO - Home page accessed
+2025-06-09 22:56:16,711 - INFO - Home page accessed
+2025-06-09 22:56:49,418 - INFO - User logged out: Admin
+2025-06-09 22:56:49,434 - INFO - Home page accessed
+2025-06-09 23:04:38,828 - INFO - Fetched class list
+2025-06-09 23:05:15,208 - INFO - Booking attempt: krishnakumarboopalan2002@gmail.com.com
+2025-06-09 23:05:15,241 - INFO - Booking confirmed for krishnakumarboopalan2002@gmail.com.com in class HIIT with Krish on 2025-06-11 at 08:00:00
