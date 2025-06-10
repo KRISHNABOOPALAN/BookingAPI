@@ -15,7 +15,7 @@ This is a simple Booking API built with Django for a fictional fitness studio th
 
 ## API Endpoints
 
-<!-- # GET /classes -->
+# GET /classes
 
 Returns a list of all upcoming fitness classes.
 
@@ -102,7 +102,3 @@ Visit http://127.0.0.1:8000 to view and test the API.
 
 // Sample Data
 You can pre-load some sample class types and fitness classes using Django admin or fixtures.
-
-
-# BookingAPI
-Task
