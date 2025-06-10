@@ -1245,3 +1245,4 @@ INFO 2025-06-09 22:56:49,443 basehttp "GET / HTTP/1.1" 200 4950
 INFO 2025-06-09 23:04:38,837 basehttp "GET /api/classes/ HTTP/1.1" 200 579
 INFO 2025-06-09 23:05:15,243 basehttp "POST /api/bookings/ HTTP/1.1" 201 148
 INFO 2025-06-09 23:05:57,547 basehttp "GET /api/bookings/ HTTP/1.1" 200 1352
+INFO 2025-06-09 23:25:38,535 autoreload Watching for file changes with StatReloader

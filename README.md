@@ -103,3 +103,6 @@ Visit http://127.0.0.1:8000 to view and test the API.
 // Sample Data
 You can pre-load some sample class types and fitness classes using Django admin or fixtures.
 
+
+# BookingAPI
+Task
